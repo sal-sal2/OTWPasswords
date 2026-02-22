@@ -83,6 +83,6 @@
 - echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 
 
-
-
-
+**Bandit Level 12 → Level 13 password:**
+>> FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+- make a dir and copy the hex compressed file into it under a new name. Repeatedly decompress the file with tar, gzip2, bzip2
